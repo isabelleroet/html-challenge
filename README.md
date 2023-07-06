@@ -7,7 +7,10 @@ The scraped information was stored in the specified Python data structure—spec
 ```
 
 ## Part 2: Scrape and Analyze Mars Weather Data  
-```The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types. 
+```
+The HTML table was extracted into a Pandas DataFrame.
+Either Pandas or Splinter and Beautiful Soup were used to scrape the data.
+The columns have the correct headings and data types. 
 
 The data was analyzed to answer the following questions:  
 How many months exist on Mars?  
